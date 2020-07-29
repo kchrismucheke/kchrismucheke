@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- 
+<div align="center">
+![Chris' github stats](https://github-readme-stats.vercel.app/api?username=kchrismucheke&count_private=true&show_icons=true&theme=buefy)
+</div>
 
  I talk to humans, write code and play football manager & DnD
 
